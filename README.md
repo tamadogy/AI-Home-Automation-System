@@ -163,10 +163,3 @@ You need to change the javascript to change the endpoints to establish communica
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code according to the terms of the license.
-
-## Contact
-For inquiries or feedback, please contact the project maintainer:
-- **Maintainer:** Joe Sanjo Cijo
-- **Email:** joesanjo10@gmail.com
-- **GitHub:** [R3tr0gh057](https://github.com/r3tr0gh057)
-
